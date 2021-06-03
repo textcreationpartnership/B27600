@@ -1,0 +1,454 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Omnia vincit amor.</title>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B27600</idno><idno type="EEBO-CITATION">99888238</idno>
+  <idno type="VID">201018</idno>
+  <idno type="EEBO-PROQUEST">2240895279</idno>
+  
+            <idno type="STC">Wing O291A</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.121.g.9[48]</idno>
+            <idno type="STC">ESTC R229209</idno>
+            <idno type="PROQUEST">ocm99888238</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99888238e"/>
+            <note>(EEBO-TCP ; phase 2, no. B27600)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 201018)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A8:1[48])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Omnia vincit amor.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1670?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Date of publication suggested by Wing (CD-ROM, 1996).</note>
+                  <note>Three columns of text, initials.</note>
+                  <note>Includes first and second part.</note>
+                  <note>First line: "As I went forth to view the Spring."</note>
+                  <note>Imperfect: copy torn.</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Ballads, English --  17th century.</term>
+               <term type="topical_term">Love --  England --  Poetry --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:201018:1"/>
+            <head>OMNIA VINCIT AMOR.</head>
+            <lg>
+               <l>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>S <hi>I</hi> went forth to view the Spring,</l>
+               <l>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> which <hi>Flora</hi> had adorned:</l>
+               <l>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>orgious rayment every thing</l>
+               <l>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> winters rage out scorned.</l>
+               <l>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>st mine eye and did espy,</l>
+               <l>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> youth that made great clamor,</l>
+               <l>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> drawing nigh. I heard him cry</l>
+               <l>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+                  <hi>Omnia vincit amor.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> his fa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e he lay along,</l>
+               <l>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> by a cristal river,</l>
+               <l>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ournfully his doleful song</l>
+               <l>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> sighs he did deliver:</l>
+               <l>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>orth her face her comely grace</l>
+               <l>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> which no man can shun her,</l>
+               <l>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>plended rayes cuts off my dayes</l>
+               <l>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+                  <hi>Omnia vincit amor.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ristal eyes like Comets fair,</l>
+               <l>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ight <hi>Phebus</hi> beams out-shining.</l>
+               <l>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> caught my heart in Cupids snare</l>
+               <l>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>d makes me die with pining,</l>
+               <l>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> foolish nature did not well</l>
+               <l>so curiously to f<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ame her,</l>
+               <l>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> beauty rare makes me with care</l>
+               <l>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>try <hi>O nia vincit amor.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ou cristal streams that swiftly glyd,</l>
+               <l>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>he Partners of my mourning,</l>
+               <l>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> fragrant fields and meadows wide</l>
+               <l>condemn har for her scorning.</l>
+               <l>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> every tree a witness be,</l>
+               <l>now justly I may blame her,</l>
+               <l>You chanting birds, note these my words</l>
+               <l>its <hi>Omnia vincit amor.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ad she been kind as she was fair,</l>
+               <l>she might have been admired,</l>
+               <l>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> very place without compare,</l>
+               <l>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> who hath my death conspired;</l>
+               <l>Thus said, his breath began to fail,</l>
+               <l>be could not speak but stammer,</l>
+               <l>He sighe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> sore, and said no more,</l>
+               <l>but <hi>Omnia vincit am<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Then I perceiv'd him near his death,</l>
+               <l>and ran in haste to save him,</l>
+               <l>But quickly he resign'd his breath,</l>
+               <l>so deep a wound love gave him.</l>
+               <l>Thus for his sake, this vow I'le make,</l>
+               <l>my tongue shall still defame her.</l>
+               <l>Upon his herse I'le write this verse</l>
+               <l>its <hi>Omnia vincit amor.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Thus I considered with my self</l>
+               <l>upon the matter rightly.</l>
+               <l>Though little <hi>Cupid</hi> he was blind,</l>
+               <l>he prov'd in pith most mighty,</l>
+               <l>Not warlike <hi>Mars,</hi> nor thundring <hi>Jove</hi>
+               </l>
+               <l>nor <hi>Vulcan</hi> with his hammer</l>
+               <l>Durst once gainst and this Boye<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> command,</l>
+               <l>for <hi>Omnia vincit amor.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Thus ye may see the fruits of love</l>
+               <l>which gods and men keeps under:</l>
+               <l>That nothing can his bonds remove,</l>
+               <l>nor torments break asunder,</l>
+               <l>There's not a boy into the school,</l>
+               <l>that scarsce hath learn'd his grammer</l>
+               <l>Upon his book he needs not look,</l>
+               <l>for <hi>omnia vincit amor,</hi>
+               </l>
+            </lg>
+            <div n="2" type="part">
+               <head>The second Part.</head>
+               <lg>
+                  <l>GReat prince of love thy force doth move</l>
+                  <l>all flesh for to adore thee,</l>
+                  <l>Thou breaks thy heart with secret smart</l>
+                  <l>that would in silence smart thee,</l>
+                  <l>Which makes a Maid to be afraid,</l>
+                  <l>while Judges do exame her:</l>
+                  <l>She dare not show although she know</l>
+                  <l>that <hi>Omnia vincit amor.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>We are but dust, confess we must,</l>
+                  <l>no flesh is full perfection:</l>
+                  <l>Nature through kind, moves everie mind,</l>
+                  <l>to render love subjection.</l>
+                  <l>Both King and Laws love binds and draws,</l>
+                  <l>no force nor wit can tame her:</l>
+                  <l>All yields we see to loves decree,</l>
+                  <l>for <hi>Omnia vincit amor,</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Both birds and beasts by love increase,</l>
+                  <l>declare themselves most willing,</l>
+                  <l>Showing their mind to love inclin'd</l>
+                  <l>the air with Echo's filling.</l>
+                  <l>Birds sweetly sings, when joy love brings</l>
+                  <l>and beasts with crying clamor,</l>
+                  <l>Void of all shame, they do proclaim</l>
+                  <l>that <hi>Omnia vincit amor.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>All loving things that grows and</l>
+                  <l>by land, by sea, and water,</l>
+                  <l>To love they yield, who can conceal'd springs</l>
+                  <l>its not a monstrous matter.</l>
+                  <l>Man will reprove a Womans love,</l>
+                  <l>for love they'l blot and blame herr</l>
+                  <l>Although they see that none is free,</l>
+                  <l>for <hi>Omnia vincit amor.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Ungrateful men, why are they then</l>
+                  <l>unto our sex so cruel?</l>
+                  <l>Since to the fire of Loves desire,</l>
+                  <l>nature it se<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>f gives fewel.</l>
+                  <l>They praise in vain, love to refrain</l>
+                  <l>or foolishly defame her;</l>
+                  <l>Love will ere long revenge our wrong</l>
+                  <l>since <hi>Omnia vincit amor.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Hell harbours hate, str<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>fe and debate,</l>
+                  <l>hell breeds and feeds dissentions</l>
+                  <l>From thence proceeds all monstrous death</l>
+                  <l>envious vile intentions:</l>
+                  <l>The Scriptures tell there's nought in hell.</l>
+                  <l>but blasphemy and clamor,</l>
+                  <l>There none can pray, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>or yet can say,</l>
+                  <l>that <hi>Omnia vincit amor.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>I dare approve, who h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>th not love,</l>
+                  <l>are Monsters all by nature,</l>
+                  <l>Some great defect, no just respect,</l>
+                  <l>can make a monstrous crea<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ure,</l>
+                  <l>To use his tongue love to impunge,</l>
+                  <l>as if he could con<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>le n<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>er</l>
+                  <l>Who gave him eyes wherewith he sees</l>
+                  <l>that <hi>Omnia vincit amor.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>The glorious Sun dot<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> restless run,</l>
+                  <l>all living things a spiring;</l>
+                  <l>Even so the earth with fruitless birth</l>
+                  <l>in love her Lord desiring;</l>
+                  <l>In stately green, enembled been,</l>
+                  <l>with colours fine to <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rame her.</l>
+                  <l>As she allows to meet h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r Spouse,</l>
+                  <l>for <hi>omnia vincit amor.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Love was the end made <hi>Christ</hi> desc<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nd</l>
+                  <l>by love he was con<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eived;</l>
+                  <l>Our Lord most hie who lov'd to die;</l>
+                  <l>by love our souls were saved;</l>
+                  <l>The heavens above they bur<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> for love</l>
+                  <l>love was their first inflammer.</l>
+                  <l>From that great light our s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>uls have fight</l>
+                  <l>that <hi>Omnia vincit amor.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>For to be plain, love it the ch<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>in,</l>
+                  <l>holds heaven and earth together.</l>
+                  <l>Love made our God to spare his rod</l>
+                  <l>and like a loving Father;</l>
+                  <l>To calm his wrath he gives us Faith</l>
+                  <l>of Grace and Peace proclaimer,</l>
+                  <l>So should we all both great and small</l>
+                  <l>cry <hi>Omnia vincit amor.</hi>
+                  </l>
+               </lg>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
